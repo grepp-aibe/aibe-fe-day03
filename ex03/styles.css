@@ -1,0 +1,11 @@
+li {
+  color: orange;
+  font-size: 15px;
+}
+ol li {
+  color: green;
+}
+ol li {
+  /* ctrl, cmd + / : 주석 */
+  color: blue;
+}
